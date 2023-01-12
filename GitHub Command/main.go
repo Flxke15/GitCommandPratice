@@ -9,3 +9,4 @@ func main() {
 //git remote add origin https://github.com/Flxke15/GitCommandPratice.git
 //add code from macbook najaa
 //gogo na
+//add code from combank
